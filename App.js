@@ -6,7 +6,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 
-import * as firebase from 'firebase'
+import  firebase from 'firebase'
 
 const firebaseConfig = {
   apiKey: "AIzaSyBmk3ODLlA-Dnm-SJnf54JBCnNznMQz98g",

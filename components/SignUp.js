@@ -55,6 +55,9 @@ export default class SignUp extends Component {
 }
 const styles = StyleSheet.create({
     signUpComponent:{
+        flex:1,
+        justifyContent:'center',
+        alignContent:'center',
 
     },
     signUpButton:{
